@@ -1,0 +1,125 @@
+Make static
+
+Creating tableReal time: 0.000005: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.005315 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.303130 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.293820 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000002 CPU time: 0.000000 User time: 0.000000 
+
+
+Creating tableReal time: 0.000006: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.004254 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.298938 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.291195 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+
+
+Creating tableReal time: 0.000005: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002547 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.303257 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.290044 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+
+
+Creating tableReal time: 0.000006: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002213 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.303516 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.314407 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000001 CPU time: 0.000000 User time: 0.000000 
+
+
+MAKE SHARED
+Creating tableReal time: 0.000006: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.003275 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000024 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.294675 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000033 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.299454 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000049 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000006: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.004982 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000026 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.294499 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000033 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.288576 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000056 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000007: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.005471 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000029 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.291858 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000032 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.291384 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000035 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000006: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002893 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000020 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 5.515909 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000105 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.313706 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000033 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000006: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002845 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000032 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.356094 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000033 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.392116 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000101 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000005: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002445 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000031 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.347790 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000037 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.332915 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000043 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000005: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002659 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000028 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.335074 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000034 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.322832 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000039 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000006: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002611 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000028 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.300646 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000032 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.336785 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000033 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000005: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.004382 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000027 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.295063 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000034 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.333267 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000041 CPU time: 0.000000 User time: 0.000000 
+Remove PAPERSIZE=letter block: Real time: 0.000000 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000005: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002975 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000028 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.310680 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000035 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.300585 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000031 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000005: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.003797 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000022 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.302683 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000038 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.306104 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000035 CPU time: 0.000000 User time: 0.000000 
+Creating tableReal time: 0.000006: CPU time: 0.000000: User time: 0.000000: 
+Searching directory /home/mateusz/mownit for file: zad1 Real time: 0.002177 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000022 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: zad1 Real time: 0.297887 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000033 CPU time: 0.000000 User time: 0.000000 
+Searching directory /home for file: a Real time: 0.291497 CPU time: 0.000000 User time: 0.000000 
+Adding to arrray: Real time: 0.000041 CPU time: 0.000000 User time: 0.000000 
+Remove PAPERSIZE=letter block: Real time: 0.000000 CPU time: 0.000000 User time: 0.000000 

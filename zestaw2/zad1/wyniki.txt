@@ -1,0 +1,300 @@
+
+Wywowałanie programu: ./main generate tmp 1000 1  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 1000 1 sys  
+Czas rzeczywisty: 1        0.010000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 1 sys  
+Czas rzeczywisty: 66        0.660000  [s]
+Czas w trybie systemowym: 47        0.470000  [s]
+Czas w trybie uzytkownika: 17        0.170000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 1000 1 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 1 lib  
+Czas rzeczywisty: 28        0.280000  [s]
+Czas w trybie systemowym: 15        0.150000  [s]
+Czas w trybie uzytkownika: 11        0.110000  [s]
+
+Wywowałanie programu: ./main generate tmp 5000 1  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 5000 1 sys  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 1 sys  
+Czas rzeczywisty: 1317        13.170000  [s]
+Czas w trybie systemowym: 989        9.890000  [s]
+Czas w trybie uzytkownika: 326        3.260000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 5000 1 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 1 lib  
+Czas rzeczywisty: 556        5.560000  [s]
+Czas w trybie systemowym: 337        3.370000  [s]
+Czas w trybie uzytkownika: 218        2.180000  [s]
+
+Wywowałanie programu: ./main generate tmp 1000 4  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 1000 4 sys  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 4 sys  
+Czas rzeczywisty: 60        0.600000  [s]
+Czas w trybie systemowym: 45        0.450000  [s]
+Czas w trybie uzytkownika: 13        0.130000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 1000 4 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 4 lib  
+Czas rzeczywisty: 24        0.240000  [s]
+Czas w trybie systemowym: 14        0.140000  [s]
+Czas w trybie uzytkownika: 10        0.100000  [s]
+
+Wywowałanie programu: ./main generate tmp 5000 4  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 5000 4 sys  
+Czas rzeczywisty: 1        0.010000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 4 sys  
+Czas rzeczywisty: 1312        13.120000  [s]
+Czas w trybie systemowym: 979        9.790000  [s]
+Czas w trybie uzytkownika: 332        3.320000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 5000 4 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 4 lib  
+Czas rzeczywisty: 559        5.590000  [s]
+Czas w trybie systemowym: 324        3.240000  [s]
+Czas w trybie uzytkownika: 234        2.340000  [s]
+
+Wywowałanie programu: ./main generate tmp 1000 512  
+Czas rzeczywisty: 1        0.010000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 1000 512 sys  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 512 sys  
+Czas rzeczywisty: 58        0.580000  [s]
+Czas w trybie systemowym: 43        0.430000  [s]
+Czas w trybie uzytkownika: 14        0.140000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 1000 512 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 512 lib  
+Czas rzeczywisty: 30        0.300000  [s]
+Czas w trybie systemowym: 19        0.190000  [s]
+Czas w trybie uzytkownika: 10        0.100000  [s]
+
+Wywowałanie programu: ./main generate tmp 5000 512  
+Czas rzeczywisty: 4        0.040000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 3        0.030000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 5000 512 sys  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 512 sys  
+Czas rzeczywisty: 1395        13.950000  [s]
+Czas w trybie systemowym: 1076        10.760000  [s]
+Czas w trybie uzytkownika: 318        3.180000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 5000 512 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 512 lib  
+Czas rzeczywisty: 751        7.510000  [s]
+Czas w trybie systemowym: 484        4.840000  [s]
+Czas w trybie uzytkownika: 266        2.660000  [s]
+
+Wywowałanie programu: ./main generate tmp 1000 1024  
+Czas rzeczywisty: 3        0.030000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 1        0.010000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 1000 1024 sys  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 1024 sys  
+Czas rzeczywisty: 61        0.610000  [s]
+Czas w trybie systemowym: 48        0.480000  [s]
+Czas w trybie uzytkownika: 12        0.120000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 1000 1024 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 1024 lib  
+Czas rzeczywisty: 39        0.390000  [s]
+Czas w trybie systemowym: 24        0.240000  [s]
+Czas w trybie uzytkownika: 14        0.140000  [s]
+
+Wywowałanie programu: ./main generate tmp 5000 1024  
+Czas rzeczywisty: 7        0.070000  [s]
+Czas w trybie systemowym: 1        0.010000  [s]
+Czas w trybie uzytkownika: 5        0.050000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 5000 1024 sys  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 1024 sys  
+Czas rzeczywisty: 1494        14.940000  [s]
+Czas w trybie systemowym: 1161        11.610000  [s]
+Czas w trybie uzytkownika: 332        3.320000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 5000 1024 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 1024 lib  
+Czas rzeczywisty: 953        9.530000  [s]
+Czas w trybie systemowym: 654        6.540000  [s]
+Czas w trybie uzytkownika: 297        2.970000  [s]
+
+Wywowałanie programu: ./main generate tmp 1000 4096  
+Czas rzeczywisty: 7        0.070000  [s]
+Czas w trybie systemowym: 1        0.010000  [s]
+Czas w trybie uzytkownika: 4        0.040000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 1000 4096 sys  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 4096 sys  
+Czas rzeczywisty: 84        0.840000  [s]
+Czas w trybie systemowym: 69        0.690000  [s]
+Czas w trybie uzytkownika: 14        0.140000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 1000 4096 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 4096 lib  
+Czas rzeczywisty: 93        0.930000  [s]
+Czas w trybie systemowym: 66        0.660000  [s]
+Czas w trybie uzytkownika: 26        0.260000  [s]
+
+Wywowałanie programu: ./main generate tmp 5000 4096  
+Czas rzeczywisty: 38        0.380000  [s]
+Czas w trybie systemowym: 3        0.030000  [s]
+Czas w trybie uzytkownika: 34        0.340000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 5000 4096 sys  
+Czas rzeczywisty: 1        0.010000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 4096 sys  
+Czas rzeczywisty: 2057        20.570000  [s]
+Czas w trybie systemowym: 1714        17.140000  [s]
+Czas w trybie uzytkownika: 341        3.410000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 5000 4096 lib  
+Czas rzeczywisty: 1        0.010000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 4096 lib  
+Czas rzeczywisty: 2071        20.710000  [s]
+Czas w trybie systemowym: 1535        15.350000  [s]
+Czas w trybie uzytkownika: 535        5.350000  [s]
+
+Wywowałanie programu: ./main generate tmp 1000 8192  
+Czas rzeczywisty: 16        0.160000  [s]
+Czas w trybie systemowym: 2        0.020000  [s]
+Czas w trybie uzytkownika: 13        0.130000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 1000 8192 sys  
+Czas rzeczywisty: 1        0.010000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 8192 sys  
+Czas rzeczywisty: 110        1.100000  [s]
+Czas w trybie systemowym: 96        0.960000  [s]
+Czas w trybie uzytkownika: 14        0.140000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 1000 8192 lib  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 1000 8192 lib  
+Czas rzeczywisty: 146        1.460000  [s]
+Czas w trybie systemowym: 111        1.110000  [s]
+Czas w trybie uzytkownika: 34        0.340000  [s]
+
+Wywowałanie programu: ./main generate tmp 5000 8192  
+Czas rzeczywisty: 71        0.710000  [s]
+Czas w trybie systemowym: 6        0.060000  [s]
+Czas w trybie uzytkownika: 63        0.630000  [s]
+
+Wywowałanie programu: ./main copy tmp tmp1 5000 8192 sys  
+Czas rzeczywisty: 0        0.000000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 8192 sys  
+Czas rzeczywisty: 2691        26.910000  [s]
+Czas w trybie systemowym: 2353        23.530000  [s]
+Czas w trybie uzytkownika: 336        3.360000  [s]
+Cannot open src file
+Wywowałanie programu: ./main copy tmp1 tmp 5000 8192 lib  
+Czas rzeczywisty: 1        0.010000  [s]
+Czas w trybie systemowym: 0        0.000000  [s]
+Czas w trybie uzytkownika: 0        0.000000  [s]
+
+Wywowałanie programu: ./main sort tmp 5000 8192 lib  
+Czas rzeczywisty: 3584        35.840000  [s]
+Czas w trybie systemowym: 2850        28.500000  [s]
+Czas w trybie uzytkownika: 729        7.290000  [s]

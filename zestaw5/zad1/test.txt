@@ -1,0 +1,4 @@
+ps -a | wc 
+ls -l | grep main
+find ../zad2 -name slave.c | wc -l
+find ../zad2 -name master.c | wc -l

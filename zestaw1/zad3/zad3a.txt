@@ -1,0 +1,11 @@
+
+Creating tableReal time: 0.000037 CPU time: 0.000000User time: 0.000000 
+
+Searching for file: zad1 Real time: 0.003296 CPU time: 0.000000 User time: 0.000000 26Adding to arrray:
+Real time: 0.000030 CPU time: 0.000000 User time: 0.000000 
+
+Searching for file: zad1 Real time: 0.300286 CPU time: 0.000000 User time: 0.000000 113Adding to arrray:
+Real time: 0.000036 CPU time: 0.000000 User time: 0.000000 
+
+Searching for file: a Real time: 0.288755 CPU time: 0.000000 User time: 0.000000 486Adding to arrray:
+Real time: 0.000036 CPU time: 0.000000 User time: 0.000000 
